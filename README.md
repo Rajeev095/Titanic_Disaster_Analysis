@@ -1,13 +1,7 @@
 # **Titanic Disaster**
 ### Titanic Project that predicts that a person survived the disaster or not.
 
-<img src="https://github.com/Rajeev095/Titanic_Survival_Prediction/blob/main/Titanic.jpg>
-
 ---
-
-### **Web APP on Heroku**
-<img src="https://github.com/Rajeev095/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic-Disaster.gif" width="600">
-
 ### **[The Project on Heroku](https://titanicdisaster.herokuapp.com/)**
 
 ---
@@ -16,9 +10,9 @@
 ![](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Screenshot%20(108).png)
 
 ### **Dataset**
-**[Train Dataset](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/train.csv)**
+**[Train Dataset](https://github.com/Rajeev095/Titanic/blob/main/Titanic%20Dataset/train.csv)**
 
-**[Test Dataset](https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/test.csv)**
+**[Test Dataset](https://github.com/Rajeev095/Titanic/blob/main/Titanic%20Dataset/test.csv)**
 
 ---
 
