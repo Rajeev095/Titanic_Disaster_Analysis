@@ -1,7 +1,7 @@
 # **Titanic Disaster**
 ### Titanic Project that predicts that a person survived the disaster or not.
 
-<img src="https://github.com/Rajeev095/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic.jpg" width=600>
+<img src="https://github.com/Rajeev095/Titanic/blob/main/Titanic%20Dataset/README-Resources/Titanic.jpg" width=600>
 
 ---
 
