@@ -1,12 +1,12 @@
 # **Titanic Disaster**
 ### Titanic Project that predicts that a person survived the disaster or not.
 
-<img src="https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic.jpg" width=600>
+<img src="https://github.com/Rajeev095/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic.jpg" width=600>
 
 ---
 
 ### **Web APP on Heroku**
-<img src="https://github.com/manthanpatel98/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic-Disaster.gif" width="600">
+<img src="https://github.com/Rajeev095/Titanic/blob/master/Titanic%20Dataset/README-Resources/Titanic-Disaster.gif" width="600">
 
 ### **[The Project on Heroku](https://titanicdisaster.herokuapp.com/)**
 
